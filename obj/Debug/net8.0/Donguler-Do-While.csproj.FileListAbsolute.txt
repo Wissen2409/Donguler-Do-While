@@ -1,0 +1,14 @@
+/Users/emrahelis/Desktop/Donguler-Do-While/bin/Debug/net8.0/Donguler-Do-While
+/Users/emrahelis/Desktop/Donguler-Do-While/bin/Debug/net8.0/Donguler-Do-While.deps.json
+/Users/emrahelis/Desktop/Donguler-Do-While/bin/Debug/net8.0/Donguler-Do-While.runtimeconfig.json
+/Users/emrahelis/Desktop/Donguler-Do-While/bin/Debug/net8.0/Donguler-Do-While.dll
+/Users/emrahelis/Desktop/Donguler-Do-While/bin/Debug/net8.0/Donguler-Do-While.pdb
+/Users/emrahelis/Desktop/Donguler-Do-While/obj/Debug/net8.0/Donguler-Do-While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Desktop/Donguler-Do-While/obj/Debug/net8.0/Donguler-Do-While.AssemblyInfoInputs.cache
+/Users/emrahelis/Desktop/Donguler-Do-While/obj/Debug/net8.0/Donguler-Do-While.AssemblyInfo.cs
+/Users/emrahelis/Desktop/Donguler-Do-While/obj/Debug/net8.0/Donguler-Do-While.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Desktop/Donguler-Do-While/obj/Debug/net8.0/Donguler-Do-While.dll
+/Users/emrahelis/Desktop/Donguler-Do-While/obj/Debug/net8.0/refint/Donguler-Do-While.dll
+/Users/emrahelis/Desktop/Donguler-Do-While/obj/Debug/net8.0/Donguler-Do-While.pdb
+/Users/emrahelis/Desktop/Donguler-Do-While/obj/Debug/net8.0/Donguler-Do-While.genruntimeconfig.cache
+/Users/emrahelis/Desktop/Donguler-Do-While/obj/Debug/net8.0/ref/Donguler-Do-While.dll
